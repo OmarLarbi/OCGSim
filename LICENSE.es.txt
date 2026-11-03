@@ -1,15 +1,15 @@
-ONECLICK&GO — LICENCIA DE USO PERSONAL GRATUITO Y CONDICIONES DE INSTALACIÓN
+﻿OCGSim — LICENCIA DE USO PERSONAL GRATUITO Y CONDICIONES DE INSTALACIÓN
 Edición 2 — 24 de octubre de 2026
 Copyright © 2026 Omar Larbi Gutierrez. Todos los derechos reservados, salvo los permisos expresamente concedidos.
 
 1. TITULARIDAD Y ALCANCE
-Omar Larbi Gutierrez es el titular de los derechos sobre los componentes propios de OneClick&GO. Este contrato regula la instalación y utilización del programa distribuido en forma ejecutable. No se entrega ni se concede una licencia sobre su código fuente. Los componentes de terceros se rigen por sus respectivas licencias.
+Omar Larbi Gutierrez es el titular de los derechos sobre los componentes propios de OCGSim. Este contrato regula la instalación y utilización del programa distribuido en forma ejecutable. No se entrega ni se concede una licencia sobre su código fuente. Los componentes de terceros se rigen por sus respectivas licencias.
 
 2. USO PERSONAL AUTORIZADO
-Se concede a la persona usuaria una licencia gratuita, no exclusiva e intransferible para descargar desde los canales oficiales, instalar y ejecutar OneClick&GO exclusivamente para su uso personal, privado y no comercial. Esta autorización no transmite la propiedad del programa ni derechos de explotación distintos de los expresamente indicados.
+Se concede a la persona usuaria una licencia gratuita, no exclusiva e intransferible para descargar desde los canales oficiales, instalar y ejecutar OCGSim exclusivamente para su uso personal, privado y no comercial. Esta autorización no transmite la propiedad del programa ni derechos de explotación distintos de los expresamente indicados.
 
 3. USOS QUE REQUIEREN AUTORIZACIÓN
-Se requiere autorización previa, expresa y por escrito de Omar Larbi Gutierrez para utilizar el programa en una empresa, comercio, negocio, actividad profesional o prestación de servicios a terceros, o para obtener un beneficio económico directo o indirecto. Esta restricción se aplica aunque no se cobre específicamente por utilizar OneClick&GO. Incluye su uso para gestionar equipos de un negocio, ofrecer experiencias de simulación de pago, prestar servicios o incorporarlo a productos o paquetes comerciales. La descarga gratuita, la aceptación de este contrato o una donación no sustituyen dicha autorización.
+Se requiere autorización previa, expresa y por escrito de Omar Larbi Gutierrez para utilizar el programa en una empresa, comercio, negocio, actividad profesional o prestación de servicios a terceros, o para obtener un beneficio económico directo o indirecto. Esta restricción se aplica aunque no se cobre específicamente por utilizar OCGSim. Incluye su uso para gestionar equipos de un negocio, ofrecer experiencias de simulación de pago, prestar servicios o incorporarlo a productos o paquetes comerciales. La descarga gratuita, la aceptación de este contrato o una donación no sustituyen dicha autorización.
 
 4. DISTRIBUCIÓN RESERVADA
 La distribución del programa y su instalador queda reservada al titular mediante los canales que este designe. Sin su autorización previa y por escrito, no se permite vender, alquilar, sublicenciar, ceder, entregar copias a terceros, volver a subir archivos, crear sitios de descarga alternativos ni redistribuir el programa, total o parcialmente, de forma gratuita o remunerada. Se permite compartir enlaces a los canales oficiales, sin alojar ni entregar copias. Quedan a salvo los actos y derechos que la legislación aplicable permita de forma irrenunciable.

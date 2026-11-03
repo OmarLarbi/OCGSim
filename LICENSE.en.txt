@@ -1,16 +1,16 @@
-ONECLICK&GO — FREE PERSONAL USE LICENSE AND INSTALLATION TERMS
+﻿OCGSim — FREE PERSONAL USE LICENSE AND INSTALLATION TERMS
 Edition 2 — October 24, 2026
 English translation of LICENSE.txt (Spanish original).
 Copyright © 2026 Omar Larbi Gutierrez. All rights reserved except for the permissions expressly granted.
 
 1. OWNERSHIP AND SCOPE
-Omar Larbi Gutierrez holds the rights to the proprietary components of OneClick&GO. This agreement governs the installation and use of the program distributed in executable form. No source code is provided or licensed. Third-party components are governed by their respective licenses.
+Omar Larbi Gutierrez holds the rights to the proprietary components of OCGSim. This agreement governs the installation and use of the program distributed in executable form. No source code is provided or licensed. Third-party components are governed by their respective licenses.
 
 2. AUTHORIZED PERSONAL USE
-The individual user is granted a free, non-exclusive, non-transferable license to download from official channels, install and run OneClick&GO exclusively for personal, private and non-commercial use. This permission does not transfer ownership of the program or any exploitation rights other than those expressly stated.
+The individual user is granted a free, non-exclusive, non-transferable license to download from official channels, install and run OCGSim exclusively for personal, private and non-commercial use. This permission does not transfer ownership of the program or any exploitation rights other than those expressly stated.
 
 3. USES REQUIRING PERMISSION
-Prior, express written permission from Omar Larbi Gutierrez is required to use the program in a company, shop, business, professional activity or provision of services to third parties, or to obtain direct or indirect economic benefit. This restriction applies even if no specific charge is made for using OneClick&GO. It includes using the program to manage business equipment, offer paid simulation experiences, provide services or incorporate it into commercial products or packages. A free download, acceptance of this agreement or a donation does not replace that permission.
+Prior, express written permission from Omar Larbi Gutierrez is required to use the program in a company, shop, business, professional activity or provision of services to third parties, or to obtain direct or indirect economic benefit. This restriction applies even if no specific charge is made for using OCGSim. It includes using the program to manage business equipment, offer paid simulation experiences, provide services or incorporate it into commercial products or packages. A free download, acceptance of this agreement or a donation does not replace that permission.
 
 4. RESERVED DISTRIBUTION RIGHTS
 Distribution of the program and its installer is reserved to the rights holder through the channels he designates. Without his prior written permission, selling, renting, sublicensing, transferring, giving copies to third parties, re-uploading files, creating alternative download sites or redistributing the program, in whole or in part, whether free of charge or for payment, is not permitted. Sharing links to official channels is permitted, without hosting or supplying copies. Acts and rights that cannot be waived under applicable law remain unaffected.
